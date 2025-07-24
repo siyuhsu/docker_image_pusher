@@ -1,1 +1,1 @@
-siyuhsu/univla:latest
+siyuhsu/openpi:server
