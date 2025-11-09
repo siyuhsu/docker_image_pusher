@@ -1,1 +1,1 @@
-siyuhsu/openpi:libero
+siyuhsu/openpi:server
