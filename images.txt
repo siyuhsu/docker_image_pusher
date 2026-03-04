@@ -1,1 +1,1 @@
-siyuhsu/openpi:server-assets
+vllm/vllm-openai:latest
