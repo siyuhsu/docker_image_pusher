@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+openwebui/open-webui:0.8.8-ollama
