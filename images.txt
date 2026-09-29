@@ -1,1 +1,4 @@
-siyuhsu/stellavla:eval
+# One big image at a time: the GitHub-hosted runner has ~45-60 GB after maximize-build-space, and
+# robodojo-eval-sim is 19.2 GB compressed / 36 GB extracted.
+#siyuhsu/stellavla:eval
+siyuhsu/robodojo-eval-sim:20260929
