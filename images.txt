@@ -2,4 +2,4 @@
 # robodojo-eval-sim is 19.2 GB compressed / 36 GB extracted.
 #siyuhsu/stellavla:eval
 #siyuhsu/robodojo-eval-sim:20260929
-siyuhsu/robodojo-sim-base:cuda12.8
+siyuhsu/robodojo-eval-client:latest
